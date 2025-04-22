@@ -6,12 +6,26 @@
 🤖 **Aprendiz de Inteligência Artificial & IA Generativa**  
 
 ---
+## **💡 Bem-vindo ao meu GitHub!**  
+
+Aqui você encontrará projetos de aprendizado, desde os mais simples até soluções estruturadas, que refletem minha evolução contínua nesse universo tech. Cada linha de código representa um passo na minha jornada de conhecimento. 
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" 
+    alt="Imagem"
+    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+  >
+</p>
+
 
 ## **👨🏻‍💻 Sobre Mim**  
 
+Sou um eterno estudante de tecnologia, determinado a transformar teoria em prática e pronto para contribuir com inovação e criatividade. Estou em busca da minha primeira oportunidade profissional na área, onde eu possa aplicar meus conhecimentos, aprender com os melhores e crescer junto à equipe.
+
 Desde criança, sou fascinado por tecnologia e como ela transforma o mundo. Hoje, mergulho nos estudos de **computação em nuvem (AWS)** e **IA**, buscando me especializar em soluções inovadoras e escaláveis.  
 
-Estou em busca da minha **primeira oportunidade profissional** na área, onde possa aplicar meus conhecimentos e continuar aprendendo.  
+Vamos conversar? Será um prazer conectar e trocar ideias! 
 
 <p align="left"> 
     <a href="https://github.com/Luizsaw?tab=repositories&sort=stargazers">
@@ -28,20 +42,36 @@ Estou em busca da minha **primeira oportunidade profissional** na área, onde po
             src="https://custom-icon-badges.demolab.com/github/followers/Luizsaw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.instagram.com/luiz_saw/" target="_blank">
+        <img 
+        alt="Instagram" 
+        title="Me siga no Instagram"
+        src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"
+        />
+    </a>
+    <a href = "mailto:luizsaw@gmail.com">
+        <img 
+            alt="Gmail" 
+            title="Entre em contato"
+            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/luiz-machado-57366a174/" target="_blank">
+        <img 
+            alt="Linkedin" 
+            title="Conecte-se comigo!"
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a> 
+    
 </p>
 
 ---
-### 📱 Contato 
-<!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiz_saw/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-machado-57366a174/)
 
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
     alt="Java" 
     title="Java"
-    width="30px" 
+    width="60px" 
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
@@ -49,7 +79,7 @@ Estou em busca da minha **primeira oportunidade profissional** na área, onde po
     align="left" 
     alt="Docker" 
     title="Docker"
-    width="30px" 
+    width="60px" 
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
@@ -57,7 +87,7 @@ Estou em busca da minha **primeira oportunidade profissional** na área, onde po
     align="left" 
     alt="PostgreSQL" 
     title="PostgreSQL"
-    width="30px" 
+    width="60px" 
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
@@ -65,7 +95,7 @@ Estou em busca da minha **primeira oportunidade profissional** na área, onde po
     align="left" 
     alt="SQL" 
     title="SQL"
-    width="30px" 
+    width="60px" 
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
@@ -73,7 +103,7 @@ Estou em busca da minha **primeira oportunidade profissional** na área, onde po
     align="left" 
     alt="Linux" 
     title="Linux"
-    width="30px" 
+    width="60px" 
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
@@ -81,7 +111,7 @@ Estou em busca da minha **primeira oportunidade profissional** na área, onde po
     align="left" 
     alt="C#" 
     title="C#"
-    width="30px" 
+    width="60px" 
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
@@ -89,7 +119,7 @@ Estou em busca da minha **primeira oportunidade profissional** na área, onde po
     align="left" 
     alt="AWS" 
     title="AWS"
-    width="30px" 
+    width="60px" 
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
 />
@@ -97,7 +127,7 @@ Estou em busca da minha **primeira oportunidade profissional** na área, onde po
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="60px" 
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
