@@ -11,10 +11,24 @@
 Aqui você encontrará projetos de aprendizado, desde os mais simples até soluções estruturadas, que refletem minha evolução contínua nesse universo tech. Cada linha de código representa um passo na minha jornada de conhecimento. 
 
 <!-- GIF -->
-<p align="left">
+<p align="center">
   <img align="center" 
+     width="150px" 
+    style="padding-right: 15px;" 
     alt="Imagem"
-    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+    src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" 
+  >
+  <img align="center" 
+     width="150px" 
+    style="padding-right: 15px;" 
+    alt="Imagem"
+    src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" 
+  >
+  <img align="center" 
+     width="150px" 
+    style="padding-right: 15px;" 
+    alt="Imagem"
+    src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" 
   >
 </p>
 
