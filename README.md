@@ -41,27 +41,24 @@ Desde criança, sou fascinado por tecnologia e como ela transforma o mundo. Hoje
 
 Vamos conversar? Será um prazer conectar e trocar ideias! 
 
-<p align="left"> 
-    <a href="https://github.com/Luizsaw?tab=repositories&sort=stargazers">
+<p align= "left"> 
+    <a href="https://github.com/Luizsaw?tab=repositories&sort=stargazers" target="_blank">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Luizsaw?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+            src="https://custom-icon-badges.demolab.com/github/stars/Luizsaw?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" target="_blank">
     </a>
-    <a href="https://github.com/Luizsaw?tab=followers">
+    <a href="https://github.com/Luizsaw?tab=followers" target="_blank">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Luizsaw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+            src="https://custom-icon-badges.demolab.com/github/followers/Luizsaw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"target="_blank">
     </a>
     <a href="https://www.instagram.com/luiz_saw/" target="_blank">
         <img 
         alt="Instagram" 
         title="Me siga no Instagram"
-        src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"
-        />
+        src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
     <a href = "mailto:luizsaw@gmail.com">
         <img 
@@ -78,7 +75,7 @@ Vamos conversar? Será um prazer conectar e trocar ideias!
     
 </p>
 
----
+
 
 ### 🤖 Linguagens e Tecnologias
 <img 
@@ -148,8 +145,11 @@ Vamos conversar? Será um prazer conectar e trocar ideias!
 
 <br/>
 <br/>
+<br/>
+<br/>
 
-<!-- Portfolio -->
+
+
 ### 💼 Portfolio:
 - [Sistema Folha de Pagamento](https://github.com/Luizsaw/RHS_Folha_de_Ponto)
 - [Game: Inside me - Depressão na Adolescência](https://github.com/Luizsaw/Projeto-Insideme)
