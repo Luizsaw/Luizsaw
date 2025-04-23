@@ -10,29 +10,6 @@
 
 Aqui você encontrará projetos de aprendizado, desde os mais simples até soluções estruturadas, que refletem minha evolução contínua nesse universo tech. Cada linha de código representa um passo na minha jornada de conhecimento. 
 
-<!-- GIF -->
-<p align="center">
-  <img align="center" 
-     width="150px" 
-    style="padding-right: 15px;" 
-    alt="Imagem"
-    src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" 
-  >
-  <img align="center" 
-     width="150px" 
-    style="padding-right: 15px;" 
-    alt="Imagem"
-    src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" 
-  >
-  <img align="center" 
-     width="150px" 
-    style="padding-right: 15px;" 
-    alt="Imagem"
-    src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" 
-  >
-</p>
-
-
 ## **👨🏻‍💻 Sobre Mim**  
 
 Sou um eterno estudante de tecnologia, determinado a transformar teoria em prática e pronto para contribuir com inovação e criatividade. Estou em busca da minha primeira oportunidade profissional na área, onde eu possa aplicar meus conhecimentos, aprender com os melhores e crescer junto à equipe.
@@ -149,10 +126,12 @@ Vamos conversar? Será um prazer conectar e trocar ideias!
 <br/>
 
 
-
 ### 💼 Portfolio:
 - [Sistema Folha de Pagamento](https://github.com/Luizsaw/RHS_Folha_de_Ponto)
 - [Game: Inside me - Depressão na Adolescência](https://github.com/Luizsaw/Projeto-Insideme)
+
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 <p>
