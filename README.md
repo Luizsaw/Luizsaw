@@ -130,8 +130,6 @@ Vamos conversar? Será um prazer conectar e trocar ideias!
 - [Sistema Folha de Pagamento](https://github.com/Luizsaw/RHS_Folha_de_Ponto)
 - [Game: Inside me - Depressão na Adolescência](https://github.com/Luizsaw/Projeto-Insideme)
 
-<br/>
-<br/>
 
 ### 📊 Estatísticas
 <p>
