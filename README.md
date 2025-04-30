@@ -64,7 +64,6 @@ Desde criança, sou fascinado por tecnologia e por como ela transforma o mundo. 
 ## 💼 Projetos em Destaque
 
 - 🎯 [Sistema Folha de Pagamento](https://github.com/Luizsaw/RHS_Folha_de_Ponto)  
-- 🎮 [Inside Me – Game sobre Depressão na Adolescência](https://github.com/Luizsaw/Projeto-Insideme)
 
 ---
 
