@@ -1,16 +1,9 @@
- 
-<p align="center">
-<img src="https://i.pinimg.com/originals/ee/21/b6/ee21b6f99f0effacee7f97699144b5f3.gif" width="40%" alt="Pixel Art Banner" />
-</p>
-
-<div align="center">
+# 👋 Luiz Carlos Machado  
 
 🌎 Natural de **Santos/SP** | 🏠 Residente em **São Vicente**  
 🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
 ☁️ Estudante de **AWS - Computação em Nuvem**  
 🤖 Aprendiz de **Inteligência Artificial & IA Generativa**
-
-</div>
 
 ---
 
