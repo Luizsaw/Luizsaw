@@ -25,24 +25,11 @@ Desde criança, sou fascinado por tecnologia e por como ela transforma o mundo. 
 ---
 
 ## 📫 Contato
-
-<p align="left"> 
-    <a href="https://github.com/Luizsaw?tab=repositories&sort=stargazers" target="_blank">
-        <img alt="Estrelas" src="https://custom-icon-badges.demolab.com/github/stars/Luizsaw?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas">
-    </a>
-    <a href="https://github.com/Luizsaw?tab=followers" target="_blank">
-        <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/Luizsaw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white">
-    </a>
-    <a href="https://www.instagram.com/luiz_saw/" target="_blank">
-        <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a href="mailto:luizsaw@gmail.com">
-        <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/luiz-machado-57366a174/" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-</p>
+<div> 
+  <a href="https://www.instagram.com/luiz_saw/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:luizsaw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luiz-machado-57366a174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ---
 
