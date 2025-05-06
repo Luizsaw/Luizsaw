@@ -8,7 +8,7 @@ Cada linha de código representa um passo na minha jornada de conhecimento.  <br
 </h2>
 
 ---
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+![Status](./profile-3d-contrib/profile-south-season.svg)
  
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaac545454&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luizsaw&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
@@ -41,7 +41,7 @@ Meu objetivo é conquistar as certificações AWS Certified Cloud Practitioner, 
 
 <h2 align="center">⚙️ Tecnologias e Ferramentas</h2>
 
-<div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,vscode,js,css,html,docker,github,linux,postgres,py,java,aws,dotnet,cs,visualstudio,flutter" /></a><br /></div>
+<div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,vscode,js,css,html,docker,linux,postgres,py,java,aws,dotnet,cs,visualstudio,flutter" /></a><br /></div>
 
 ---
 <h2 align="center">💼 Projetos em Destaque</h2>
