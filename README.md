@@ -1,17 +1,4 @@
- ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
- 
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaac545454&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luizsaw&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
-
-<div align="center" >
- <a href="https://skillicons.dev"   >
-   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,docker,github,linux,postgres,python,java,c#,aws,flutter" />
- </a>
-<br />
-</div>
-  
-
-<h2 align="left">
+ <h2 align="left">
  <abc>
   <br>Olá ! Seja muito bem-vindo ao meu GitHub! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> Aqui você encontrará projetos de aprendizado, desde os mais simples até soluções estruturadas, refletindo minha evolução contínua nesse universo tech.  
@@ -20,15 +7,17 @@ Cada linha de código representa um passo na minha jornada de conhecimento.  <br
  </abc>
 </h2>
 
-##
-<div align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Luizsaw&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/></div>
-
 🌎 Natural de **Santos/SP** | 🏠 Residente em **São Vicente**  
 🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
 ☁️ Estudante de **AWS - Computação em Nuvem**  
 🤖 Aprendiz de **Inteligência Artificial & IA Generativa**
 
 ---
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+ 
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaac545454&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luizsaw&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+  
 
 ## 👨🏻‍💻 Sobre Mim
 
@@ -41,6 +30,8 @@ Meu objetivo é conquistar as certificações AWS Certified Cloud Practitioner, 
 💬 *Vamos conversar? Vai ser um prazer conectar e trocar ideias!*
 
 ---
+##
+<div align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Luizsaw&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/></div>
 
 ## 📫 Contato
 <div> 
@@ -53,22 +44,7 @@ Meu objetivo é conquistar as certificações AWS Certified Cloud Practitioner, 
 
 ## ⚙️ Tecnologias e Ferramentas
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" title="Flutter" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="SQLServer" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="50"/>
-  
-</p>
+<div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,docker,github,linux,postgres,python,java,c#,aws,flutter" /></a><br /></div>
 
 ---
 
@@ -80,7 +56,3 @@ Meu objetivo é conquistar as certificações AWS Certified Cloud Practitioner, 
 
 ## 📊 Estatísticas GitHub
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizsaw&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizsaw&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-</p>
