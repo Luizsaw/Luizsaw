@@ -1,8 +1,0 @@
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout código com autenticação
-        uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GH_PAT }}
