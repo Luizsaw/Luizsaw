@@ -7,11 +7,6 @@ Cada linha de código representa um passo na minha jornada de conhecimento.  <br
  </abc>
 </h2>
 
-<h2 align="center">
-🌎 Natural de **Santos/SP** | 🏠 Residente em **São Vicente**  🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
-☁️ Estudante de **AWS - Computação em Nuvem**  🤖 Aprendiz de **Inteligência Artificial & IA Generativa**
-</h2>
-
 ---
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
  
@@ -28,6 +23,11 @@ Desde criança, sou fascinado por tecnologia e por como ela transforma o mundo. 
 Meu objetivo é conquistar as certificações AWS Certified Cloud Practitioner, AWS Solutions Architect Associate, e, futuramente, a AWS Developer Associate, construindo minha carreira e evolução no mercado de tecnologia.
 
 💬 *Vamos conversar? Vai ser um prazer conectar e trocar ideias!*
+
+🌎 Natural de **Santos/SP** | 🏠 Residente em **São Vicente**  
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
+☁️ Estudante de **AWS - Computação em Nuvem**  
+🤖 Aprendiz de **Inteligência Artificial & IA Generativa**
 
 ---
 ##
