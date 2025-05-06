@@ -54,5 +54,3 @@ Meu objetivo é conquistar as certificações AWS Certified Cloud Practitioner, 
 
 ---
 
-## 📊 Estatísticas GitHub
-
