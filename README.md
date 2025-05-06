@@ -24,33 +24,28 @@ Meu objetivo é conquistar as certificações AWS Certified Cloud Practitioner, 
 
 💬 *Vamos conversar? Vai ser um prazer conectar e trocar ideias!*
 
-🌎 Natural de **Santos/SP** | 🏠 Residente em **São Vicente**  
-🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
-☁️ Estudante de **AWS - Computação em Nuvem**  
-🤖 Aprendiz de **Inteligência Artificial & IA Generativa**
+🌎 Natural de **Santos/SP** | 🏠 Residente em **São Vicente**  🎓 Formado em **Análise e Desenvolvimento de Sistemas**  ☁️ Estudante de **AWS - Computação em Nuvem**  🤖 Aprendiz de **Inteligência Artificial & IA Generativa**
 
 ---
 ##
 <div align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Luizsaw&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/></div>
 
-## 📫 Contato
-<div> 
+<h2 align="center">📫 Contato</h2>
+<diva lign="center"> 
   <a href="https://www.instagram.com/luiz_saw/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:luizsaw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-machado-57366a174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ---
-
-## ⚙️ Tecnologias e Ferramentas
+<h2 align="center">⚙️ Tecnologias e Ferramentas</h2>
 
 <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,docker,github,linux,postgres,python,java,c#,aws,flutter" /></a><br /></div>
 
 ---
+<h2 align="center">💼 Projetos em Destaque</h2>
 
-## 💼 Projetos em Destaque
-
-- 🎯 [Sistema Folha de Pagamento](https://github.com/Luizsaw/RHS_Folha_de_Ponto)  
+<diva lign="center"> - 🎯 [Sistema Folha de Pagamento](https://github.com/Luizsaw/RHS_Folha_de_Ponto)  </div>
 
 ---
 
