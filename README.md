@@ -12,7 +12,9 @@ Cada linha de código representa um passo na minha jornada de conhecimento.  <br
  
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaac545454&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luizsaw&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
-  
+
+ ##
+<div align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Luizsaw&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/></div>
 
 <h2 align="center">👨🏻‍💻 Sobre Mim</h2>
 
@@ -27,8 +29,6 @@ Meu objetivo é conquistar as certificações AWS Certified Cloud Practitioner, 
 🌎 Natural de **Santos/SP** | 🏠 Residente em **São Vicente**  🎓 Formado em **Análise e Desenvolvimento de Sistemas**  ☁️ Estudante de **AWS - Computação em Nuvem**  🤖 Aprendiz de **Inteligência Artificial & IA Generativa**
 
 ---
-##
-<div align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Luizsaw&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/></div>
 
 <h2 align="center">📫 Contato</h2>
 <div align="center"> 
