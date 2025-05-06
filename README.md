@@ -31,7 +31,7 @@ Meu objetivo é conquistar as certificações AWS Certified Cloud Practitioner, 
 <div align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Luizsaw&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/></div>
 
 <h2 align="center">📫 Contato</h2>
-<diva lign="center"> 
+<div lign="center"> 
   <a href="https://www.instagram.com/luiz_saw/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:luizsaw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-machado-57366a174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
