@@ -7,10 +7,10 @@ Cada linha de código representa um passo na minha jornada de conhecimento.  <br
  </abc>
 </h2>
 
-🌎 Natural de **Santos/SP** | 🏠 Residente em **São Vicente**  
-🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
-☁️ Estudante de **AWS - Computação em Nuvem**  
-🤖 Aprendiz de **Inteligência Artificial & IA Generativa**
+<h2 align="center">
+🌎 Natural de **Santos/SP** | 🏠 Residente em **São Vicente**  🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
+☁️ Estudante de **AWS - Computação em Nuvem**  🤖 Aprendiz de **Inteligência Artificial & IA Generativa**
+</h2>
 
 ---
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
@@ -19,7 +19,7 @@ Cada linha de código representa um passo na minha jornada de conhecimento.  <br
  | ----------- | ----------- |
   
 
-## 👨🏻‍💻 Sobre Mim
+<h2 align="center">👨🏻‍💻 Sobre Mim</h2>
 
 Sou um eterno estudante de tecnologia, determinado a transformar teoria em prática. Busco minha primeira oportunidade profissional na área para aplicar conhecimentos, aprender com os melhores e crescer junto à equipe.
 
