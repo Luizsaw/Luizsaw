@@ -1,4 +1,4 @@
- <h2 align="left">
+ <h2 align="center">
  <abc>
   <br>Olá ! Seja muito bem-vindo ao meu GitHub! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> Aqui você encontrará projetos de aprendizado, desde os mais simples até soluções estruturadas, refletindo minha evolução contínua nesse universo tech.  
@@ -45,7 +45,7 @@ Meu objetivo é conquistar as certificações AWS Certified Cloud Practitioner, 
 ---
 <h2 align="center">💼 Projetos em Destaque</h2>
 
-<diva lign="center"> - 🎯 [Sistema Folha de Pagamento](https://github.com/Luizsaw/RHS_Folha_de_Ponto)  </div>
+<div lign="center"> - 🎯 [Sistema Folha de Pagamento](https://github.com/Luizsaw/RHS_Folha_de_Ponto)  </div>
 
 ---
 
