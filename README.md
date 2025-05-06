@@ -41,7 +41,7 @@ Meu objetivo é conquistar as certificações AWS Certified Cloud Practitioner, 
 
 <h2 align="center">⚙️ Tecnologias e Ferramentas</h2>
 
-<div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,vscode,js,css,html,docker,github,linux,postgres,py,java,aws,dotnet,cs,visualstudio" /></a><br /></div>
+<div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,vscode,js,css,html,docker,github,linux,postgres,py,java,aws,dotnet,cs,visualstudio,flutter" /></a><br /></div>
 
 ---
 <h2 align="center">💼 Projetos em Destaque</h2>
