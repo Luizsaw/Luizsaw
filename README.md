@@ -8,13 +8,13 @@ Cada linha de código representa um passo na minha jornada de conhecimento.  <br
 </h2>
 
 ---
-![Status](https://github.com/Luizsaw/Luizsaw/blob/main/profile-3d-contrib/profile-night-view.svg)
+![Status](https://github.com/Luizsaw/Luizsaw/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
  
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaac545454&theme=dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luizsaw&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaac545454&theme=algolia&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luizsaw&theme=algolia)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
  ##
-<div align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Luizsaw&row=1&column=6&theme=dark&margin-w=15&margin-h=15"/></div>
+<div align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Luizsaw&row=1&column=6&theme=algolia&margin-w=15&margin-h=15"/></div>
 
 <h2 align="center">👨🏻‍💻 Sobre Mim</h2>
 
