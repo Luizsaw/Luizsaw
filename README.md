@@ -8,7 +8,7 @@ Cada linha de código representa um passo na minha jornada de conhecimento.  <br
 </h2>
 
 ---
-<!--![Status](https://github.com/Luizsaw/Luizsaw/blob/main/profile-3d-contrib/profile-night-view.svg)-->
+![Status](https://github.com/Luizsaw/Luizsaw/blob/main/profile-3d-contrib/profile-night-view.svg)
  
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaac545454&theme=algolia&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luizsaw&theme=algolia)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
