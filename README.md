@@ -46,7 +46,7 @@ Meu objetivo é conquistar as certificações AWS Certified Cloud Practitioner, 
 
 ---
 
-## 💼 Projetos em Destaque</h2>
+<h2 align="center">💼 Projetos em Destaque</h2>
 
 - ​🖥️​ [Sistema Folha de Pagamento](https://github.com/Luizsaw/RHS_Folha_de_Pagamento)
 - 📒 [Sistema de Agendamentos](https://github.com/Luizsaw/Sistema-Agendamento-Clinica-Estetica)
