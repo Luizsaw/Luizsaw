@@ -45,10 +45,12 @@ Meu objetivo é conquistar as certificações AWS Certified Cloud Practitioner, 
 <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,vscode,js,css,html,docker,linux,postgres,py,java,aws,dotnet,cs,visualstudio,flutter" /></a><br /></div>
 
 ---
-<h2 align="center">💼 Projetos em Destaque</h2>
 
-<div align="center"> - 🎯 [Sistema Folha de Pagamento](https://github.com/Luizsaw/RHS_Folha_de_Pagamento)  </div>
-<div align="center"> - ​📒​ [Sistema de Agendamentos](https://github.com/Luizsaw/Sistema-Agendamento-Clinica-Estetica)  </div>
-<div align="center"> - 🎮​ [Inside Me](https://github.com/Luizsaw/Projeto-Insideme)  </div>
+## 💼 Projetos em Destaque</h2>
+
+- ​🖥️​ [Sistema Folha de Pagamento](https://github.com/Luizsaw/RHS_Folha_de_Pagamento)
+- 📒 [Sistema de Agendamentos](https://github.com/Luizsaw/Sistema-Agendamento-Clinica-Estetica)
+- 🎮 [Game: Inside Me](https://github.com/Luizsaw/Projeto-Insideme)
+
 ---
 
