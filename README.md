@@ -19,13 +19,21 @@ Cada linha de código representa um passo na minha jornada de conhecimento.  <br
 
 <h2 align="center">👨🏻‍💻 Sobre Mim</h2>
 
-Sou um eterno estudante de tecnologia, determinado a transformar teoria em prática. Busco minha primeira oportunidade profissional na área para aplicar conhecimentos, aprender com os melhores e crescer junto à equipe.
+Sou um eterno aprendiz de tecnologia, determinado a transformar teoria em prática. Busco minha primeira oportunidade profissional na área de TI para aplicar conhecimentos, aprender com especialistas e crescer junto a uma equipe.
 
-Desde criança, sou fascinado por tecnologia e por como ela transforma o mundo. Atualmente, estou me especializando em computação em nuvem (AWS), onde encontrei um caminho claro para direcionar minha carreira. Esse aprendizado me mostrou o potencial das soluções escaláveis e inovadoras na nuvem, e hoje me dedico com afinco a essa área.
+Desde criança, sou fascinado por como a tecnologia impacta e transforma o mundo. Atualmente, estou me especializando em computação em nuvem (AWS), onde encontrei um caminho claro para direcionar minha carreira. Esse aprendizado tem me mostrado o poder de soluções escaláveis e inovadoras na nuvem, e hoje dedico meus esforços a essa área.
 
-Meu objetivo é conquistar as certificações AWS Certified Cloud Practitioner, AWS Solutions Architect Associate, e, futuramente, a AWS Developer Associate, construindo minha carreira e evolução no mercado de tecnologia.
+Certificação Conquistada:
 
-💬 *Vamos conversar? Vai ser um prazer conectar e trocar ideias!*
+✅ AWS Certified Cloud Practitioner
+
+Em estudo:
+
+AWS Developer – Associate
+
+Meu propósito é construir uma trajetória sólida em tecnologia, sempre buscando evolução contínua e contribuindo para projetos de impacto.
+
+💬 Vamos conectar? Vai ser um prazer trocar ideias e experiências!
 
 🌎 Natural de **Santos/SP** | 🏠 Residente em **São Vicente**  🎓 Formado em **Análise e Desenvolvimento de Sistemas**  ☁️ Estudante de **AWS - Computação em Nuvem**  🤖 Aprendiz de **Inteligência Artificial & IA Generativa**
 
